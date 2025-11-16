@@ -1,6 +1,6 @@
 @athkei
 - jack of (as) many trades (as possible)
-- any pronouns (just be respecful)
+- any pronouns
 
 <!---
 athkei/athkei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
